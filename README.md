@@ -1,34 +1,23 @@
-# Professional Certificates Portfolio
+# 🎓 Meus Certificados
 
-## Python Certificates (2025)
+## Certificados 2025
 
-1. **Python for Data Science** - Issued: January 2025  
-   * Institution: XYZ University  
-   * Credential ID: 1234567890  
+### 💻 Python Certificate
+- **Hotmart**: [Python Certificate](CERTIFICADOS/7128f51a-4eaf-4441-a593-793406e0100e-1889175730.pdf)
 
-2. **Advanced Python Programming** - Issued: March 2025  
-   * Institution: ABC Academy  
-   * Credential ID: 0987654321  
+### 📚 Coursera Certificates
+1. [Certificate 1](CERTIFICADOS/11KIC4S9K2JU.pdf)
+2. [Certificate 2](CERTIFICADOS/5YWMXH6NN1MB.pdf)
+3. [Certificate 3](CERTIFICADOS/FRQ9FTKPUELR.pdf)
+4. [Certificate 4](CERTIFICADOS/KAAPQX3GHJA1.pdf)
+5. [Certificate 5](CERTIFICADOS/LDYB2I3NBIMP.pdf)
+6. [Certificate 6](CERTIFICADOS/T5LVJ751CD4G.pdf)
+7. [Certificate 7](CERTIFICADOS/VR92FY39ACBX.pdf)
+8. [Certificate 8](CERTIFICADOS/XG85M8MCVX80.pdf)
+9. [Certificate 9](CERTIFICADOS/XJH69MCZWWZC.pdf)
 
-3. **Python Machine Learning Fundamentals** - Issued: June 2025  
-   * Institution: DEF Institute  
-   * Credential ID: 1122334455  
-
-## Cybersecurity Certificates (2025)
-
-1. **Certified Ethical Hacker (CEH)** - Issued: February 2025  
-   * Institution: GHI Academy  
-   * Credential ID: 5566778899  
-
-2. **Cybersecurity Fundamentals** - Issued: April 2025  
-   * Institution: JKL University  
-   * Credential ID: 2233445566  
-
-3. **CompTIA Security+** - Issued: August 2025  
-   * Institution: MNO Institute  
-   * Credential ID: 3344556677  
+## 📞 Contact
+For any inquiries, please reach out to me at: davimoreira0@example.com
 
 ---
-
-### Note
-This portfolio includes all certifications earned in 2025 across Python and Cybersecurity, showcasing a commitment to continuous learning and professional development.
+Last updated on: 2026-04-20 17:31:14 UTC
