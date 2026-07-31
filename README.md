@@ -3,21 +3,14 @@
 ## Certificates 2025
 
 ### 💻 Python Certificate
-- **Hotmart**: [Python Certificate](CERTIFICADOS/7128f51a-4eaf-4441-a593-793406e0100e-1889175730.pdf)
+- **Hotmart**: [Python Certificate](Certificates/7128f51a-4eaf-4441-a593-793406e0100e-1889175730.pdf)
 
 ### 📚 Coursera Certificates
-1. [Certificate - Foudations of Cybersecurity](CERTIFICADOS/11KIC4S9K2JU.pdf)
-2. [Certificate - Sound the Alarm: Detection and Response](CERTIFICADOS/5YWMXH6NN1MB.pdf)
-3. [Certificate - Tools of the Trade: Linux and SQL](CERTIFICADOS/FRQ9FTKPUELR.pdf)
-4. [Certificate - Put It to Work: Prepare for Cybersecurity jobs](CERTIFICADOS/KAAPQX3GHJA1.pdf)
-5. [Certificate - Assets, Threats, and Vulnerabilities](CERTIFICADOS/LDYB2I3NBIMP.pdf)
-6. [Certificate - Accelerate Your job Search with AI](CERTIFICADOS/T5LVJ751CD4G.pdf)
-7. [Certificate - Automate Cybersecuriyt Tasks with Python](CERTIFICADOS/VR92FY39ACBX.pdf)
-8. [Certificate - Play It Safe: Manage Security Risks](CERTIFICADOS/XG85M8MCVX80.pdf)
-9. [Certificate - Connect and Protect: Networks and Networks Security](CERTIFICADOS/XJH69MCZWWZC.pdf)
+1. [Coursera Certificate (PQBW7GVRVP7B)](Certificates/Coursera%20PQBW7GVRVP7B.pdf)
+2. [Coursera Certificate (UC-738fab50-a648-4127-9cea-607fd90379d6)](Certificates/UC-738fab50-a648-4127-9cea-607fd90379d6.pdf)
 
 ## 📞 Contact
 For any inquiries, please reach out to me at: moreiradavi336@gmail.com
 
 ---
-Last updated on: 2026-04-20 17:31:14 UTC
+Last updated on: 2026-07-31 00:00:00 UTC
