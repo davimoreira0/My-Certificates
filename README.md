@@ -4,14 +4,6 @@ This repository contains my professional and course completion certificates. Cli
 
 ## Certificates
 
-### 💻 Python
-**Platform:** Hotmart  
-**Course:** Python
-
-<p align="center"><a href="Certificates/7128f51a-4eaf-4441-a593-793406e0100e-1889175730_page-0001.jpg"><img src="Certificates/7128f51a-4eaf-4441-a593-793406e0100e-1889175730_page-0001.jpg" alt="Python Certificate — Hotmart" width="480"></a></p>
-
----
-
 ### 🛡️ Google Cybersecurity
 **Platform:** Coursera  
 **Specialization:** Google Cybersecurity
@@ -33,6 +25,14 @@ This repository contains my professional and course completion certificates. Cli
 **Course:** Invasion Techniques with Kali Linux
 
 <p align="center"><a href="Certificates/UC-738fab50-a648-4127-9cea-607fd90379d6_page-0001.jpg"><img src="Certificates/UC-738fab50-a648-4127-9cea-607fd90379d6_page-0001.jpg" alt="Invasion Techniques with Kali Linux — Udemy" width="480"></a></p>
+
+---
+
+### 💻 Python
+**Platform:** Hotmart  
+**Course:** Python
+
+<p align="center"><a href="Certificates/7128f51a-4eaf-4441-a593-793406e0100e-1889175730_page-0001.jpg"><img src="Certificates/7128f51a-4eaf-4441-a593-793406e0100e-1889175730_page-0001.jpg" alt="Python Certificate — Hotmart" width="480"></a></p>
 
 ---
 
